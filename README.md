@@ -34,15 +34,5 @@ CodePlayJS is a tool designed for developers looking for a fast and efficient en
 
 ## Downloads
 
-<div align="center" style="display: flex; justify-content: center; gap: 15px; margin-top: 20px;">
-  <a href="https://drive.google.com/file/d/19lyTdRvgc9XkE6ASzhawdvlHjY9SrjvI/view?usp=drive_link" style="text-decoration: none;">
-    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Download Portable Version
-    </button>
-  </a>
-  <a href="https://drive.google.com/file/d/1vIjd3JOoiL7NH1k4LQMSTVBPGXVw-p9m/view?usp=drive_link" style="text-decoration: none;">
-    <button style="padding: 10px 20px; background-color: #2196F3; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Download Installer (.exe)
-    </button>
-  </a>
-</div>
+- [Download Portable Version](https://drive.google.com/file/d/19lyTdRvgc9XkE6ASzhawdvlHjY9SrjvI/view?usp=drive_link)
+- [Download Installer (.exe)](https://drive.google.com/file/d/1vIjd3JOoiL7NH1k4LQMSTVBPGXVw-p9m/view?usp=drive_link)
